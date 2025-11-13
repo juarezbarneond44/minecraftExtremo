@@ -1,0 +1,41 @@
+[16:46:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:46:40] [ServerMain/INFO]: No existing world data, creating new world
+[16:46:42] [ServerMain/INFO]: Loaded 1461 recipes
+[16:46:42] [ServerMain/INFO]: Loaded 1574 advancements
+[16:46:45] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[16:46:45] [Server thread/INFO]: Loading properties
+[16:46:45] [Server thread/INFO]: Default game type: SURVIVAL
+[16:46:45] [Server thread/INFO]: Generating keypair
+[16:46:45] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Controlador no válido
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at aro$1.run(SourceFile:189) [server-1.21.10.jar:?]
+[16:46:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:46:45] [Server thread/INFO]: Using default channel type
+[16:46:46] [Server thread/INFO]: Preparing level "world"
+[16:46:46] [Server thread/INFO]: Selecting global world spawn...
+[16:46:53] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:46:53] [Server thread/INFO]: Preparing spawn area: 100%
+[16:46:53] [Server thread/INFO]: Time elapsed: 7356 ms
+[16:46:53] [Server thread/INFO]: Done (7.804s)! For help, type "help"
+[16:47:18] [Server thread/INFO]: Stopping server
+[16:47:18] [Server thread/INFO]: Saving players
+[16:47:18] [Server thread/INFO]: Saving worlds
+[16:47:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:47:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:47:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:47:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:47:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:47:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:47:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
