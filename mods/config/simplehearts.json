@@ -1,0 +1,8 @@
+{
+  "Version": 3,
+  "HeartPieceLimit": 10,
+  "HeartContainerLimit": 10,
+  "EternalHeartLimit": 2,
+  "GenerateShack": true,
+  "SubtractHealthBy": 0
+}

@@ -1,0 +1,18 @@
+"Enable Max health" = true
+"Enable Lives" = true
+
+["Max health"]
+	#How much max health players spawn with
+	#Range: > 0
+	"Starting health" = 20
+	#Max health lost when the player dies. Negative numbers can be used to give health to players.
+	#Range: > -2147483648
+	"Health penalty" = 2
+
+	#Min and max max health players can have. E.g. Setting min to -10 and max to 0 means that the player can't have less than 5 hearts and more than 10
+	["Max health".Cap]
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		Minimum = -18.0
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		Maximum = 0.0
+
