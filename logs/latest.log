@@ -1,77 +1,91 @@
-[23:09:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[23:09:27] [ServerMain/INFO]: Loaded 1461 recipes
-[23:09:27] [ServerMain/INFO]: Loaded 1574 advancements
-[23:09:27] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[23:09:27] [Server thread/INFO]: Loading properties
-[23:09:27] [Server thread/INFO]: Default game type: SURVIVAL
-[23:09:27] [Server thread/INFO]: Generating keypair
-[23:09:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:09:27] [Server thread/INFO]: Using epoll channel type
-[23:09:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:09:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:09:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:09:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:09:27] [Server thread/INFO]: Preparing level "world"
-[23:09:27] [Server thread/INFO]: Loading 0 persistent chunks...
-[23:09:27] [Server thread/INFO]: Preparing spawn area: 100%
-[23:09:27] [Server thread/INFO]: Time elapsed: 11 ms
-[23:09:27] [Server thread/INFO]: Done (0.157s)! For help, type "help"
-[23:09:39] [Server thread/INFO]: ChillPlayCxC[/186.144.8.165:50547] logged in with entity id 115 at (347.60998743268243, 85.0, -565.1372243850465)
-[23:09:39] [Server thread/INFO]: ChillPlayCxC joined the game
-[23:09:43] [Server thread/INFO]: DEMIAN1007[/181.52.227.14:61555] logged in with entity id 355 at (346.5, 99.0, -550.5)
-[23:09:43] [Server thread/INFO]: DEMIAN1007 joined the game
-[23:10:47] [Server thread/INFO]: ViJiX[/186.116.237.170:58350] logged in with entity id 494 at (348.5, 82.0, -561.5)
-[23:10:47] [Server thread/INFO]: ViJiX joined the game
-[23:11:57] [Server thread/INFO]: JUANKRL[/212.129.78.146:63829] logged in with entity id 682 at (360.5, 85.0, -565.5)
-[23:11:57] [Server thread/INFO]: JUANKRL joined the game
-[23:12:53] [Server thread/INFO]: Juanquis44[/190.56.113.15:44656] logged in with entity id 879 at (354.5, 83.0, -569.5)
-[23:12:53] [Server thread/INFO]: Juanquis44 joined the game
-[23:12:56] [Server thread/INFO]: DEMIAN1007 has made the advancement [Stone Age]
-[23:13:21] [Server thread/INFO]: DEMIAN1007 has made the advancement [Getting an Upgrade]
-[23:14:52] [Server thread/INFO]: ViJiX has made the advancement [Stone Age]
-[23:15:03] [Server thread/INFO]: JUANKRL has made the advancement [Stone Age]
-[23:15:18] [Server thread/INFO]: ViJiX has made the advancement [Getting an Upgrade]
-[23:15:30] [Server thread/INFO]: JUANKRL has made the advancement [Getting an Upgrade]
-[23:15:52] [Server thread/INFO]: Juanquis44 has made the advancement [Stone Age]
-[23:16:26] [Server thread/INFO]: Juanquis44 has made the advancement [Getting an Upgrade]
-[23:16:44] [Server thread/INFO]: ChillPlayCxC has made the advancement [Stone Age]
-[23:17:09] [Server thread/INFO]: ChillPlayCxC has made the advancement [Getting an Upgrade]
-[23:20:03] [Server thread/INFO]: JUANKRL has made the advancement [Monster Hunter]
-[23:21:26] [Server thread/INFO]: DEMIAN1007 has made the advancement [Monster Hunter]
-[23:29:38] [Server thread/INFO]: Juanquis44 has made the advancement [Acquire Hardware]
-[23:30:12] [Server thread/INFO]: Juanquis44 has made the advancement [Isn't It Iron Pick]
-[23:34:19] [Server thread/INFO]: Juanquis44 has made the advancement [Minecraft: Trial(s) Edition]
-[23:35:08] [Server thread/INFO]: Juanquis44 has made the advancement [Not Today, Thank You]
-[23:36:07] [Server thread/INFO]: DEMIAN1007 has made the advancement [Acquire Hardware]
-[23:36:25] [Server thread/INFO]: ChillPlayCxC has made the advancement [Acquire Hardware]
-[23:36:28] [Server thread/INFO]: Juanquis44 has made the advancement [Monster Hunter]
-[23:36:33] [Server thread/INFO]: ChillPlayCxC has made the advancement [Isn't It Iron Pick]
-[23:36:35] [Server thread/INFO]: DEMIAN1007 has made the advancement [Isn't It Iron Pick]
-[23:38:58] [Server thread/INFO]: DEMIAN1007 has made the advancement [Suit Up]
-[23:41:24] [Server thread/INFO]: Juanquis44 has made the advancement [Under Lock and Key]
-[23:45:17] [Server thread/INFO]: ViJiX has made the advancement [Acquire Hardware]
-[23:45:26] [Server thread/INFO]: ViJiX has made the advancement [Isn't It Iron Pick]
-[23:45:49] [Server thread/INFO]: ChillPlayCxC has made the advancement [Monster Hunter]
-[23:46:00] [Server thread/INFO]: ChillPlayCxC has made the advancement [Suit Up]
-[23:46:25] [Server thread/INFO]: JUANKRL has made the advancement [Acquire Hardware]
-[23:46:42] [Server thread/INFO]: JUANKRL has made the advancement [Isn't It Iron Pick]
-[23:46:59] [Server thread/INFO]: Juanquis44 has made the advancement [Suit Up]
-[23:47:29] [Server thread/INFO]: JUANKRL lost connection: Timed out
-[23:47:29] [Server thread/INFO]: JUANKRL left the game
-[23:47:29] [Server thread/WARN]: handleDisconnection() called twice
-[23:47:38] [Server thread/INFO]: JUANKRL[/212.129.73.163:8554] logged in with entity id 22031 at (1445.8481339327766, 35.0, -1051.4858961521982)
-[23:47:38] [Server thread/INFO]: JUANKRL joined the game
-[23:50:38] [Server thread/INFO]: JUANKRL has made the advancement [Suit Up]
-[23:51:03] [Server thread/INFO]: ViJiX has made the advancement [Suit Up]
-[23:54:08] [Server thread/INFO]: ChillPlayCxC was blown up by Creeper
-[23:54:25] [Server thread/INFO]: Juanquis44 has made the advancement [Diamonds!]
-[23:55:16] [Server thread/INFO]: Juanquis44 lost connection: Disconnected
-[23:55:16] [Server thread/INFO]: Juanquis44 left the game
-[23:55:20] [Server thread/INFO]: ViJiX lost connection: Disconnected
-[23:55:20] [Server thread/INFO]: ViJiX left the game
-[23:55:28] [Server thread/INFO]: ChillPlayCxC lost connection: Disconnected
-[23:55:28] [Server thread/INFO]: ChillPlayCxC left the game
-[23:55:53] [Server thread/INFO]: JUANKRL lost connection: Disconnected
-[23:55:53] [Server thread/INFO]: JUANKRL left the game
-[23:57:43] [Server thread/INFO]: DEMIAN1007 lost connection: Disconnected
-[23:57:43] [Server thread/INFO]: DEMIAN1007 left the game
+[00:15:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:15:13] [ServerMain/INFO]: Loaded 1461 recipes
+[00:15:13] [ServerMain/INFO]: Loaded 1574 advancements
+[00:15:13] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:15:13] [Server thread/INFO]: Loading properties
+[00:15:13] [Server thread/INFO]: Default game type: SURVIVAL
+[00:15:13] [Server thread/INFO]: Generating keypair
+[00:15:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:15:13] [Server thread/INFO]: Using epoll channel type
+[00:15:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:15:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:15:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:15:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:15:13] [Server thread/INFO]: Preparing level "world"
+[00:15:13] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:15:13] [Server thread/INFO]: Preparing spawn area: 100%
+[00:15:13] [Server thread/INFO]: Time elapsed: 11 ms
+[00:15:13] [Server thread/INFO]: Done (0.163s)! For help, type "help"
+[00:15:17] [Server thread/INFO]: Juanquis44[/190.56.113.15:20972] logged in with entity id 58 at (465.2340279793711, -44.0, -367.4428659418342)
+[00:15:17] [Server thread/INFO]: Juanquis44 joined the game
+[00:15:30] [Server thread/INFO]: DEMIAN1007[/181.52.227.14:62644] logged in with entity id 354 at (1200.600074650923, 21.0, -923.8338882350919)
+[00:15:30] [Server thread/INFO]: DEMIAN1007 joined the game
+[00:15:33] [Server thread/INFO]: ChillPlayCxC[/186.144.8.165:61615] logged in with entity id 790 at (1234.260969345889, -44.0, -893.5653873024329)
+[00:15:33] [Server thread/INFO]: ChillPlayCxC joined the game
+[00:15:44] [Server thread/INFO]: [Juanquis44: Teleported ChillPlayCxC to DEMIAN1007]
+[00:17:02] [Server thread/INFO]: ChillPlayCxC has made the advancement [Sweet Dreams]
+[00:17:02] [Server thread/INFO]: DEMIAN1007 has made the advancement [Sweet Dreams]
+[00:17:04] [Server thread/INFO]: Juanquis44 lost connection: Disconnected
+[00:17:04] [Server thread/INFO]: Juanquis44 left the game
+[00:17:48] [Server thread/INFO]: Juanquis44[/190.56.113.15:24862] logged in with entity id 1479 at (439.0792894899034, -53.0, -367.57040183095967)
+[00:17:48] [Server thread/INFO]: Juanquis44 joined the game
+[00:20:24] [Server thread/INFO]: ChillPlayCxC has made the advancement [Not Today, Thank You]
+[00:23:27] [Server thread/INFO]: Juanquis44 has made the advancement [Ice Bucket Challenge]
+[00:24:01] [Server thread/INFO]: JUANKRL[/212.129.73.163:8551] logged in with entity id 3503 at (1446.699999988079, 36.0, -1050.807990280904)
+[00:24:01] [Server thread/INFO]: JUANKRL joined the game
+[00:24:35] [Server thread/INFO]: DEMIAN1007 has made the advancement [Not Today, Thank You]
+[00:32:23] [Server thread/INFO]: ChillPlayCxC has made the advancement [Diamonds!]
+[00:45:12] [Server thread/INFO]: DEMIAN1007 has made the advancement [Diamonds!]
+[00:46:03] [Server thread/INFO]: Juanquis44 has made the advancement [Cover Me with Diamonds]
+[00:50:16] [Server thread/INFO]: JUANKRL has made the advancement [Take Aim]
+[00:50:51] [Server thread/INFO]: JUANKRL has made the advancement [Not Today, Thank You]
+[00:51:04] [Server thread/INFO]: JUANKRL was slain by Zombie
+[00:51:51] [Server thread/INFO]: JUANKRL lost connection: Disconnected
+[00:51:51] [Server thread/INFO]: JUANKRL left the game
+[00:51:53] [Server thread/INFO]: JUANKRL[/212.129.73.163:8546] logged in with entity id 16367 at (631.4419110359712, 49.994191211760004, -718.2632563384453)
+[00:51:53] [Server thread/INFO]: JUANKRL joined the game
+[00:52:13] [Server thread/INFO]: [Juanquis44: Set JUANKRL's game mode to Survival Mode]
+[01:03:04] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=1134, y=64, z=-1130} ja{x=1134, y=62, z=-1130}
+[01:03:47] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=1233, y=79, z=-1027} ja{x=1233, y=78, z=-1026}
+[01:09:16] [Server thread/INFO]: JUANKRL drowned
+[01:10:00] [Server thread/INFO]: [Juanquis44: Set JUANKRL's game mode to Survival Mode]
+[01:10:02] [Server thread/INFO]: JUANKRL fell from a high place
+[01:10:20] [Server thread/INFO]: [Juanquis44: Set JUANKRL's game mode to Survival Mode]
+[01:12:31] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=1218, y=80, z=-989} ja{x=1219, y=81, z=-989}
+[01:12:31] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=1218, y=80, z=-989} ja{x=1219, y=81, z=-989}
+[01:15:20] [Server thread/INFO]: JUANKRL has made the advancement [A Seedy Place]
+[01:16:09] [Server thread/INFO]: Juanquis44 has made the advancement [We Need to Go Deeper]
+[01:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2707ms or 54 ticks behind
+[01:16:38] [Server thread/INFO]: ChillPlayCxC has made the advancement [We Need to Go Deeper]
+[01:24:04] [Server thread/INFO]: DEMIAN1007 has made the advancement [We Need to Go Deeper]
+[01:26:53] [Server thread/INFO]: JUANKRL lost connection: Disconnected
+[01:26:53] [Server thread/INFO]: JUANKRL left the game
+[01:26:57] [Server thread/INFO]: JUANKRL[/212.129.73.163:8610] logged in with entity id 32089 at (1212.7328851125067, 83.0, -1006.644432708432)
+[01:26:57] [Server thread/INFO]: JUANKRL joined the game
+[01:27:12] [Server thread/INFO]: JUANKRL lost connection: Disconnected
+[01:27:12] [Server thread/INFO]: JUANKRL left the game
+[01:27:26] [Server thread/INFO]: Juanquis44 has made the advancement [Take Aim]
+[01:27:43] [Server thread/INFO]: DEMIAN1007 lost connection: Disconnected
+[01:27:43] [Server thread/INFO]: DEMIAN1007 left the game
+[01:28:40] [Server thread/INFO]: ChillPlayCxC tried to swim in lava
+[01:29:40] [Server thread/INFO]: Juanquis44 was slain by Magma Cube
+[01:29:40] [Server thread/INFO]: ChillPlayCxC lost connection: Disconnected
+[01:29:40] [Server thread/INFO]: ChillPlayCxC left the game
+[01:29:57] [Server thread/INFO]: Juanquis44 lost connection: Disconnected
+[01:29:57] [Server thread/INFO]: Juanquis44 left the game
+[01:30:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:31:40] [Server thread/INFO]: Juanquis44[/190.56.113.15:29691] logged in with entity id 33567 at (362.37870705394306, 90.08183247852999, -551.1769987429002)
+[01:31:40] [Server thread/INFO]: Juanquis44 joined the game
+[01:32:01] [Server thread/INFO]: [Juanquis44: Teleported Juanquis44 to Juanquis44]
+[01:32:11] [Server thread/INFO]: DEMIAN1007[/181.52.227.14:64183] logged in with entity id 33613 at (1227.898757712964, 81.0, -1007.5892353370984)
+[01:32:11] [Server thread/INFO]: DEMIAN1007 joined the game
+[01:32:27] [Server thread/INFO]: Juanquis44 lost connection: Disconnected
+[01:32:27] [Server thread/INFO]: Juanquis44 left the game
+[01:32:30] [Server thread/INFO]: Juanquis44[/190.56.113.15:31092] logged in with entity id 34030 at (393.70606067127295, 90.08183247852999, -538.8078707915489)
+[01:32:30] [Server thread/INFO]: Juanquis44 joined the game
+[01:32:34] [Server thread/INFO]: [Juanquis44: Teleported Juanquis44 to DEMIAN1007]
+[01:32:43] [Server thread/INFO]: [Juanquis44: Set own game mode to Creative Mode]
+[01:33:54] [Server thread/INFO]: DEMIAN1007 lost connection: Disconnected
+[01:33:54] [Server thread/INFO]: DEMIAN1007 left the game
+[01:33:56] [Server thread/INFO]: Juanquis44 lost connection: Disconnected
+[01:33:56] [Server thread/INFO]: Juanquis44 left the game
