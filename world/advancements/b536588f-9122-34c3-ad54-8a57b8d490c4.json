@@ -10,11 +10,13 @@
       "minecraft:taiga": "2025-11-17 23:05:23 +0000",
       "minecraft:deep_ocean": "2025-11-18 00:04:12 +0000",
       "minecraft:birch_forest": "2025-11-18 00:08:28 +0000",
+      "minecraft:windswept_hills": "2025-11-18 16:41:02 +0000",
       "minecraft:beach": "2025-11-17 23:01:01 +0000",
       "minecraft:dark_forest": "2025-11-18 00:08:18 +0000",
       "minecraft:river": "2025-11-17 23:02:06 +0000",
       "minecraft:stony_shore": "2025-11-18 00:06:30 +0000",
       "minecraft:dripstone_caves": "2025-11-18 00:58:55 +0000",
+      "minecraft:swamp": "2025-11-18 16:42:12 +0000",
       "minecraft:cold_ocean": "2025-11-17 22:59:30 +0000",
       "minecraft:forest": "2025-11-17 22:50:22 +0000",
       "minecraft:lush_caves": "2025-11-17 23:24:06 +0000",
@@ -1448,6 +1450,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-11-18 01:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-11-18 18:03:30 +0000"
     },
     "done": true
   },
